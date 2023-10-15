@@ -32,7 +32,7 @@ In this lab, you will create a simple serverless web application using the follo
 Our lab is divided into several sections as follows:
 
 1. Deploy Blue Car application
-2. Dashbird Well-Architected Insights
+2. Dashboard Well-Architected Insights
 3. Modern Load Test
 4. Tear down
 
